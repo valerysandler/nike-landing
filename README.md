@@ -1,21 +1,42 @@
-# Tailwind CSS Full Course 2023 | Build and Deploy a Nike Website
-![Nike Landing Page](https://i.ibb.co/pxzMGb4/Thumbnail-2.png)
+Nike Landing Page
+Nike Landing Page Screenshot
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+Welcome to the Nike Landing Page repository! This project is dedicated to the creation of a single-page landing page for Nike, the legendary sportswear and footwear manufacturer. This page is designed to showcase web development skills and can be used for personal or educational purposes.
 
-## Tailwind CSS Starter Kit
-📚 https://resource.jsmastery.pro/tailwind-starter-kit
+Description
+This project represents a simple yet effective landing page created using HTML, CSS, and JavaScript. It consists of the following sections:
 
-## Summary
-Dive into the world of Tailwind CSS, build a Nike website, and join top-tier organizations like OpenAI, Shopify, and NASA in building stunning apps effortlessly.
+Home Page: The first section features the Nike logo and a brief introduction to the brand.
+Product Catalog: Here, you will find photos and descriptions of some popular Nike products.
+About Us: This section provides a brief history of the Nike brand and its values.
+Contact Us: A section for getting in touch with us and providing feedback.
+Running the Project
+To run this project on your computer, follow these steps:
 
-In this course, you'll:
-- Learn how to make the most out of Tailwind CSS
-- Fully understand how Tailwind works behind-the-scenes
-- Follow all of Tailwind's best practices
-- Put all of your newly gained Tailwind skills to the test by building a beautiful Nike landing page
-  
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+Clone the repository to your computer:
+
+bash
+Copy code
+git clone https://github.com/valerysand/nike-landing.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd nike-landing
+Open the index.html file in your web browser:
+
+Double-click on the index.html file in your file manager.
+Or enter the path to the index.html file in your browser's address bar.
+Technologies Used
+HTML5
+CSS3
+JavaScript
+Reactjs
+Bootstrap
+Tilwindcss
+
+Author
+This project is authored by Valery Sandler. If you have any questions or suggestions, feel free to get in touch with me.
+
+License
+This project is distributed under the MIT License. For details, please refer to the LICENSE file.

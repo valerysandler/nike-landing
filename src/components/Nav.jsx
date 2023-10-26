@@ -20,14 +20,14 @@ const Nav = () => {
             <li key={item.label}>
               <a
                 href={item.href}
-                className='font-montserrat leading-normal text-lg text-slate-gray'
+                className='font-montserrat leading-normal text-lg  hover:bg-orange-600 hover:text-white transition-colors duration-200  py-3 px-4 rounded-lg hover:shadow-lg font-medium'
               >
                 {item.label}
               </a>
             </li>
           ))}
         </ul>
-        <div className='flex gap-2 text-lg leading-normal font-medium font-montserrat max-lg:hidden wide:mr-24'>
+        <div className='flex gap-2 text-lg leading-normal font-medium font-montserrat max-lg:hidden wide:mr-24  hover:bg-orange-600 hover:text-white transition-colors duration-200 rounded-lg hover:shadow-lg py-3 px-4'>
           <a href='/'>Sign in</a>
           <span>/</span>
           <a href='/'>Explore now</a>
