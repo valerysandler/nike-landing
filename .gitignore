@@ -11,7 +11,17 @@ node_modules
 # dist
 dist-ssr
 *.local
+src
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Thumbs.db
 
+#For deployment
+.env
+.env.production
+.env.development
+.env.test
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
@@ -22,3 +32,5 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.github
+.firebase
